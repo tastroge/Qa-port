@@ -1,12 +1,9 @@
-# Portfólio de QA Manual 
+## Estrutura do Projeto
 
-Projeto prático de QA Manual focado na validação de um sistema web de autenticação de usuários.
-
-## O que você encontrará aqui
 - Plano de Testes
 - Casos de Teste Funcionais
 - Relatórios de Bugs
-- Análise de Qualidade e Experiência do Usuário (CX)
+- Análise de Qualidade e Experiência do Usuário (UX/CX)
 
-Os testes foram realizados em ambiente público de demonstração, simulando cenários reais de aplicações corporativas.
+Este projeto simula a atuação de um QA em ambiente corporativo, com foco em qualidade, prevenção de falhas e melhoria contínua.
 
